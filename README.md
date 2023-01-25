@@ -16,7 +16,7 @@
 
 * `rm -rf OLD-IDS`
 
-* `git clone https://github.com/Demon-Cyber-404/OLD-IDS`
+* `git clone https://github.com/Demon-Cyber-404/OLD-IDS.git`
 
 ## Run :
 
