@@ -1,8 +1,8 @@
-## Installation :
+## COMMAND :
 
-* `pkg update`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Old+FB+id+Cloning+Tool+Enjoy+Guys%F0%9F%A4%9F)](https://git.io/typing-svg)
 
-* `pkg upgrade`
+* `pkg update && pkg upgrade`
 
 * `pkg install python`
 
@@ -10,23 +10,21 @@
 
 * `pip install requests`
 
+* `pip install mechanize`
+
 * `pip install futures`
 
 * `pip install rich`
 
-* `rm -rf OLD-IDS`
+* `pip install bs4`
 
-* `git clone https://github.com/Demon-Cyber-404/OLD-IDS.git`
+* `rm -rf OLD-CLONE`
 
-## Run :
+* `git clone https://github.com/MUMIT-404-CYBER/OLD-CLONE.git`
 
-* `cd OLD-IDS`
+* `cd OLD-CLONE`
 
-* `python old.py`
+* `python clone.py`
 
 
-<h3>Visitors :</h3><br>
-<img src="https://profile-counter.glitch.me/Demon-Cyber-404/count.svg" alt="Visitors">
-
-<p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+___This Tool is Free Enjoy Dear User.___</br>
